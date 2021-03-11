@@ -1,1 +1,4 @@
-
+Group,GroupType,GroupLocation
+khalidtestgroup,Global,"OU=IRC,DC=AD,DC=UCOP,DC=EDU"
+khalidtest2,Universal,"OU=IRC,DC=AD,DC=UCOP,DC=EDU"
+khalid,Global,"OU=IRC,DC=AD,DC=UCOP,DC=EDU"
